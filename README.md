@@ -1,1 +1,2 @@
 # IT-project
+print(hello)
